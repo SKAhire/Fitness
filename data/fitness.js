@@ -9,20 +9,20 @@ export default [
         {
           id: "10",
           image:
-            "https://sworkit.com/wp-content/uploads/2020/06/sworkit-jumping-jack.gif",
+            "https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/jumpingjack-1457045563.gif?resize=1200:*",
           name: "JUMPING JACKS",
           sets:12,
         },
         {
             id:"11",
-            image:"https://177d01fbswx3jjl1t20gdr8j-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/Incline-Push-Up.gif",
+            image:"https://www.inspireusafoundation.org/wp-content/uploads/2023/03/incline-push-up.gif",
             name:"INCLINE PUSH-UPS",
             sets:10,
         },
         {
             id:"12",
-            image:"https://media.self.com/photos/583c641ca8746f6e65a60c7e/master/w_1600%2Cc_limit/DIAMOND_PUSHUP_MOTIFIED.gif",
-            name:"INCLINED PUSH-UPS",
+            image:"https://www.inspireusafoundation.org/wp-content/uploads/2022/05/weighted-push-up.gif",
+            name:"PUSH-UPS",
             sets:10,
         },
         {
